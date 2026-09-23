@@ -1,0 +1,7 @@
+--- ANÁLISIS MATRICIAL Y FUNCIONAL AVANZADO ---
+Dimensión de la Matriz Laplaciana (L): (40, 40)
+Valor del Funcional Integrado (Campo Continuo): 0.313278
+Energía Matricial Minimizada por Espectroscopia: 200.0888
+Conclusión: Las matrices y el cálculo integral proporcionan una solución determinista.
+\1.py:71: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  plt.tight_layout()
