@@ -1,0 +1,14 @@
+# Mi proyecto: investigar P vs NP
+
+**Autor: Nadal Ferrá**
+
+He empezado este proyecto porque quiero investigar el problema P vs NP y entender por qué encontrar una solución puede ser mucho más difícil que comprobarla.
+
+Estoy utilizando Python para hacer pruebas con problemas  y comparar el tiempo que se tarda en encontrar una solución , que se tarda en comprobarla.
+
+En mis experimentos he observado que encontrar una solución puede llevar mucho más tiempo que verificarla. Esto me ha hecho pensar en una pregunta: 
+**¿y si P vs NP no tiene una solución real?**
+
+También es posible que mis pruebas no me lleven a una respuesta definitiva.
+Sé que todavía estoy al principio y que mis resultados no demuestran nada definitivo. Mi objetivo es investigar paso a paso y descubrir hasta dónde me pueden llevar mis ideas.
+
