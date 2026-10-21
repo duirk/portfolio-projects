@@ -1,4 +1,4 @@
-# IGNIS-PATH: Teletransportación de Datos Numéricos
+# Geodesic_Torch_Lab: Teletransportación de Datos Numéricos
 
 **Autor:** Nadal Ferrá | **Fecha:** 21/10/2026 | **Investigador Independiente**  
 
