@@ -26,4 +26,3 @@ El sistema se articula sobre seis variables de estado fundamentales:
 
 ---
 
-Para consultar la formulación matemática completa y la matriz de aplicación a casos históricos, revisa el archivo principal `.tex` o su versión compilada.
