@@ -1,6 +1,6 @@
 # La Mecánica Relativista de los Imperios
 
-Un marco teórico e histórico-matemático desarrollado por **Nadal Ferrá** (Investigador Independiente) el **22 de octubre de 2026**.
+Un marco teórico filosófico e histórico-matemático desarrollado por **Nadal Ferrá** (Investigador Independiente) el **22 de octubre de 2026**.
 
 ## 📌 Descripción General
 
