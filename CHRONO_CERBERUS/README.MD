@@ -1,4 +1,4 @@
-# Modelo de Conectividad Cerebro-Cosmos
+# Modelo de Conectividad 
 (filosófia matemática.)
 Este proyecto explora la idea teórica de una conexión entre la actividad del cerebro humano y las dinámicas del espacio exterior. 
 
