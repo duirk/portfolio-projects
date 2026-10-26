@@ -1,5 +1,5 @@
 
-# 🚀 NASA / TORCHI SYSTEM - HISTORICAL QUANTUM INTERFACE
+# 🚀 NASA / TORCHI SYSTEM -  QUANTUM INTERFACE
 
 Un simulador de interfaz aeroespacial  desarrollado en Python utilizando **Pygame**, diseñado para emular a la perfección 
 las consolas de computación de misiones espaciales clásicas con monitores CRT de fósforo verde.
