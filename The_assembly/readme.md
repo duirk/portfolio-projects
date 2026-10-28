@@ -21,6 +21,6 @@ python main.py
 - `numpy`: cálculos numéricos.
 - `pygame`: interfaz gráfica.
 - `tensorflow`: red neuronal experimental.
-- Con pyserial conecta tu arduino!
+- Con pyserial conecta tu arduino!Ves con cuidado!no testeado!
 
 **Nota:** Proyecto educativo y experimental. Los resultados requieren validación independiente para confirmar su precisión física.
