@@ -1,4 +1,4 @@
-Propuesta Teorica de Duirk
+Propuesta Teoria de Duirk con yang-mils
 
 Este repositorio contiene materiales y afirmaciones preliminares sobre la Geometria de Duirk y la resolucion del salto de masa.
 
