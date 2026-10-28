@@ -7,6 +7,7 @@ Simulador educativo en Python para explorar transistores MOSFET, visualizar grá
 ```bash
 python -m pip install --upgrade pip
 python -m pip install numpy pygame tensorflow
+pip install pyserial
 ```
 
 ## Ejecutar
@@ -20,5 +21,6 @@ python main.py
 - `numpy`: cálculos numéricos.
 - `pygame`: interfaz gráfica.
 - `tensorflow`: red neuronal experimental.
+- Con pyserial conecta tu arduino!
 
 **Nota:** Proyecto educativo y experimental. Los resultados requieren validación independiente para confirmar su precisión física.
