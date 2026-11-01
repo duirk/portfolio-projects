@@ -1,0 +1,3 @@
+AutoProg_Genesis es un motor científico interactivo en Python que integra Pygame, TensorFlow, SciPy y OpenCV para simular circuitos MOSFET en tiempo real. Su característica principal es un sistema de auto-programación en caliente que escribe y compila código nuevo de forma autónoma.
+
+Al pulsar el botón de auto-programación, el sistema genera funciones matemáticas únicas y añade dinámicamente nuevos botones y módulos a la interfaz con scroll independiente. Esto permite expandir infinitamente las capacidades del banco sin alterar las gráficas de rendimiento.
