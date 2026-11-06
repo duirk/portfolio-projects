@@ -1,4 +1,4 @@
-🚀 Hyper_Engine: Motor de Modelado Multifísico para PCBsSistema unificado de diseño electrónico 
+🚀 Hyper_Engine: Motor de Modelado Multifísico para PCBs Sistema unificado de diseño electrónico 
 que integra todas las físicas del circuito en una sola plataforma de optimización inteligente.
 ⚙️ Esquema del Núcleo de OptimizaciónDominio Electromagnético (3D)Controla las corrientes y
 campos magnéticos espaciales para evitar interferencias.Integridad de Señal y 
