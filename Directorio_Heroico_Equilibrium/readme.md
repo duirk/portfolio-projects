@@ -6,4 +6,4 @@ como un campo de tensiones capaz de superar cualquier perturbación externa.
 El resultado es un algoritmo único que combina la ingeniería mecánica con la máxima precisión teórica.   
 
 Una intervención de performance artística transformará el espacio expositivo en un escenario intenso. cuando llege a cabo los trabajos.
-Volere cuando termine la tempestad saludos!
+Volvere cuando termine la tempestad saludos!
